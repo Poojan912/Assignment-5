@@ -38,13 +38,20 @@ e.g When we join student and takes on id the names of both should be 'id' as the
 
 ## Example for student join takes:
 arguments:
+
+
 ![image](https://github.com/Poojan912/Assignment-5-Software/assets/104124712/49c78c2e-2ab0-4b3f-9b5d-6f5c46ab2e1f)
 
 Successful execution:
+
+
 ![image](https://github.com/Poojan912/Assignment-5-Software/assets/104124712/1d55e3dc-8968-4e91-be57-df6b25d05874)
 
 
 ![image](https://github.com/Poojan912/Assignment-5-Software/assets/104124712/4c5e3f9c-3f1d-4940-bbc0-aa785413eb97)
+
+
+
 
 
 ## Logic:
